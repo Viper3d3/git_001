@@ -1,0 +1,5 @@
+C:\Users\Roman Sergeevich\Desktop\git\git_001\git_002\obj\Debug\net6.0\git_002.csproj.AssemblyReference.cache
+C:\Users\Roman Sergeevich\Desktop\git\git_001\git_002\obj\Debug\net6.0\git_002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roman Sergeevich\Desktop\git\git_001\git_002\obj\Debug\net6.0\git_002.AssemblyInfoInputs.cache
+C:\Users\Roman Sergeevich\Desktop\git\git_001\git_002\obj\Debug\net6.0\git_002.AssemblyInfo.cs
+C:\Users\Roman Sergeevich\Desktop\git\git_001\git_002\obj\Debug\net6.0\git_002.csproj.CoreCompileInputs.cache
